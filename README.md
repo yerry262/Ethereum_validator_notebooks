@@ -1,6 +1,14 @@
 # Ethereum Validator Notebooks
 Notebooks to track stats on your validators, stats other sites won't tell you
 
+## Tech Stack
+
+- **Jupyter Notebooks** — interactive Python environment
+- **Python** — Pandas/NumPy data analysis, Matplotlib/Plotly charts
+- **Ethereum APIs** — beacon chain / validator data
+
+## Getting Started
+
 Download the notebook and install all required dependencies.
 Update the Validator IDs to those that are desired and run!
 
